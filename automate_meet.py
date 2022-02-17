@@ -1,5 +1,5 @@
 import pyttsx3 
-# not import to import pyttsx3 if you are not making any A.I or need any computer voice. You will use your recorded voice here
+# do not import pyttsx3 if you are not making any A.I or need any computer voice. If You will use your recorded voice here
 
 import speech_recognition as sr
 # for speech recognition
